@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0EA5E9&center=true&vCenter=true&width=500&lines=Software+Engineering+%40+UWaterloo;SWE+Intern+%40+Zynga+%26+Cineplex;Competitive+YuGiOh+player" alt="Typing animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0EA5E9&center=true&vCenter=true&width=500&lines=Software+Engineering+%40+UWaterloo;SWE+Intern+%40+Zynga+%26+Cineplex;Roller+coaster+designer;Competitive+YuGiOh+player;Always+planning+the+next+trip" alt="Typing animation" />
   </a>
 </p>
 
@@ -15,6 +15,10 @@
   Software Engineering student at the <strong>University of Waterloo</strong>
 </p>
 
+<p align="center">
+  🎓 UWaterloo · 🎢 coasters · 🃏 YuGiOh · ✈️ travel
+</p>
+
 ---
 
 ### About
@@ -25,12 +29,12 @@ I started programming at age 8 with Visual Basic and Java, driven by a fascinati
 
 ### Outside of SWE
 
-Outside of software engineering, I'm into roller coaster design, competitive YuGiOh, and travel.
+Outside of software engineering, I'm into 🎢 roller coaster design, 🃏 competitive YuGiOh, and ✈️ travel.
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,py,java,ts,git,linux&theme=dark" alt="Skills" />
-  </a>
+  <img src="https://img.shields.io/badge/🎢-roller_coaster_design-0ea5e9?style=for-the-badge" alt="Roller coasters" />
+  <img src="https://img.shields.io/badge/🃏-competitive_YuGiOh-0ea5e9?style=for-the-badge" alt="YuGiOh" />
+  <img src="https://img.shields.io/badge/✈️-travel-0ea5e9?style=for-the-badge" alt="Travel" />
 </p>
 
 <p align="center">
