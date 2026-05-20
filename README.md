@@ -36,6 +36,3 @@ Outside of software engineering, I'm into 🎢 roller coaster design, 🃏 compe
   <img src="https://img.shields.io/badge/✈️-travel-0ea5e9?style=for-the-badge" alt="Travel" />
 </p>
 
-<p align="center">
-  <a href="https://matthewmcrae.io"><strong>matthewmcrae.io</strong></a>
-</p>
