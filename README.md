@@ -32,7 +32,7 @@ Outside of software engineering, I'm into 🎢 roller coaster design, 🃏 compe
 
 <p align="center">
   <img src="https://img.shields.io/badge/🎢-roller_coaster_design-0ea5e9?style=for-the-badge" alt="Roller coasters" />
-  <img src="https://img.shields.io/badge/🃏-competitive_YuGiOh-0ea5e9?style=for-the-badge" alt="YuGiOh" />
+  <a href="https://yugioh.fandom.com/wiki/Matthew_McRae"><img src="https://img.shields.io/badge/🃏-competitive_YuGiOh-0ea5e9?style=for-the-badge" alt="YuGiOh" /></a>
   <img src="https://img.shields.io/badge/✈️-travel-0ea5e9?style=for-the-badge" alt="Travel" />
 </p>
 
