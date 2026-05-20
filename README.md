@@ -8,7 +8,6 @@
 
 <p align="center">
   <a href="https://matthewmcrae.io"><img src="https://img.shields.io/badge/website-matthewmcrae.io-0ea5e9?style=for-the-badge" alt="matthewmcrae.io" /></a>
-  <a href="https://github.com/VisasStarfrost"><img src="https://img.shields.io/badge/GitHub-VisasStarfrost-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
 </p>
 
 <p align="center">
