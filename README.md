@@ -34,16 +34,5 @@ Outside of software engineering, I'm into roller coaster design, competitive YuG
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VisasStarfrost&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=VisasStarfrost&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/VisasStarfrost">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=VisasStarfrost&theme=tokyo-night&hide_border=true&color=0EA5E9&line=0EA5E9&point=FFFFFF" alt="Contribution graph" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://matthewmcrae.io"><strong>matthewmcrae.io</strong></a>
 </p>
